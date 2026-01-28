@@ -1,3 +1,5 @@
 complete the bca
 from tru univ
+with 2025
+passout
 
